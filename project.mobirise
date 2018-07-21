@@ -1107,7 +1107,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<p><a href=\"page1.html\" target=\"_blank\">Букет \"Фантазия\"</a></p>",
+                "caption": "<p><a href=\"page1.html#counters2-z\" target=\"_blank\">Букет \"Фантазия\"</a></p>",
                 "active": false
               },
               {
