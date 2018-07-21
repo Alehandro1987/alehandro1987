@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1107,7 +1107,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<p><a href=\"page1.html\"></a>Букет \"Фантазия\"</p>",
+                "caption": "<p><a href=\"page1.html\" target=\"_blank\">Букет \"Фантазия\"</a></p>",
                 "active": false
               },
               {
